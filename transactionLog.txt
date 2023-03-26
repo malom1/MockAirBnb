@@ -1,0 +1,146 @@
+04-23-2021 10.35.39 : Server : Transaction>kiosk#001,0,0.00
+04-23-2021 10.35.39 : Server : quit
+04-23-2021 10.35.40 : CLIENT : Transaction>kiosk#001,0,0.00
+04-23-2021 10.40.56 : Server : Transaction>kiosk#001,0,0.00
+04-23-2021 10.40.57 : Server : quit
+04-23-2021 10.40.57 : CLIENT : Transaction>kiosk#001,0,0.00
+04-23-2021 11.07.02 : Server : Transaction>kiosk#001,0,0.00
+04-23-2021 11.07.02 : Server : INFORMATION
+04-23-2021 11.07.03 : CLIENT : Transaction>kiosk#001,0,0.00
+04-23-2021 11.07.03 : Server : quit
+04-23-2021 11.07.21 : Server : Transaction>kiosk#001,0,0.00
+04-23-2021 11.07.21 : Server : LEBRAWN JAMES
+04-23-2021 11.07.21 : CLIENT : Transaction>kiosk#001,0,0.00
+04-23-2021 11.07.22 : Server : quit
+04-23-2021 11.21.23 : Server : Transaction>kiosk#001,0,0.00
+04-23-2021 11.21.23 : Server : mohammad alom
+04-23-2021 11.21.23 : CLIENT : Transaction>kiosk#001,0,0.00
+04-23-2021 11.21.24 : Server : mohammad alom
+04-23-2021 11.21.24 : Server : mohammad alom
+04-23-2021 11.21.25 : Server : quit
+04-23-2021 11.23.02 : Server : Transaction>kiosk#001,0,0.00
+04-23-2021 11.23.03 : Server : mohamnmad alom 
+04-23-2021 11.23.03 : CLIENT : Transaction>kiosk#001,0,0.00
+04-23-2021 11.23.03 : Server : 724234234
+04-23-2021 11.23.04 : Server : 10
+04-23-2021 11.23.04 : Server : quit
+04-23-2021 11.25.33 : Server : Transaction>kiosk#001,0,0.00
+04-23-2021 11.25.34 : Server : Ted Bundy
+04-23-2021 11.25.34 : CLIENT : Transaction>kiosk#001,0,0.00
+04-23-2021 11.25.34 : Server : 835535353
+04-23-2021 11.25.35 : Server : 15
+04-23-2021 11.25.35 : Server : quit
+04-23-2021 11.29.09 : Server : Transaction>kiosk#001,0,0.00
+04-23-2021 11.29.10 : Server : MHAMMAD
+04-23-2021 11.29.10 : CLIENT : Transaction>kiosk#001,0,0.00
+04-23-2021 11.29.10 : Server : 12442
+04-23-2021 11.29.11 : Server : 12342
+04-23-2021 11.29.12 : Server : quit
+05-04-2021 12.07.52 : Server : Transaction>kiosk#001,0,0.00
+05-04-2021 12.07.53 : Server : kjl
+05-04-2021 12.07.53 : CLIENT : Transaction>kiosk#001,0,0.00
+05-04-2021 12.07.53 : Server : jnk
+05-04-2021 12.07.54 : Server : jnk
+05-04-2021 12.07.54 : Server : quit
+05-14-2021 16.32.28 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 16.32.28 : Server : Mohammad Alom
+05-14-2021 16.32.28 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 16.32.29 : Server : 3582358982385 /  02/30 / 333
+05-14-2021 16.32.29 : Server : 10
+05-14-2021 16.32.30 : Server : quit
+05-14-2021 16.52.10 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 16.52.10 : Server : asdsa
+05-14-2021 16.52.10 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 16.52.11 : Server : asds
+05-14-2021 16.52.11 : Server : 10
+05-14-2021 16.52.12 : Server : quit
+05-14-2021 16.52.13 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 16.52.13 : Server : Recieved
+05-14-2021 16.52.13 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 16.52.14 : Server : Recieved
+05-14-2021 16.52.14 : Server : Recieved
+05-14-2021 16.52.15 : Server : quit
+05-14-2021 17.05.35 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.05.35 : Server : Recieved
+05-14-2021 17.05.35 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.05.36 : Server : Recieved
+05-14-2021 17.05.36 : Server : Recieved
+05-14-2021 17.05.37 : Server : quit
+05-14-2021 17.26.26 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.26.27 : Server : Mohammad Alom
+05-14-2021 17.26.27 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.26.27 : Server : 29129843 / 234/ 434
+05-14-2021 17.26.28 : Server : 12
+05-14-2021 17.26.28 : Server : quit
+05-14-2021 17.31.48 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.31.49 : Server : sfad
+05-14-2021 17.31.49 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.31.49 : Server : 
+05-14-2021 17.31.50 : Server : dfd
+05-14-2021 17.31.50 : Server : quit
+05-14-2021 17.43.24 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.43.25 : Server : Mohammad
+05-14-2021 17.43.25 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.43.25 : Server : Recieved
+05-14-2021 17.43.26 : Server : 10
+05-14-2021 17.43.26 : Server : quit
+05-14-2021 17.43.37 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.43.37 : Server : Recieved
+05-14-2021 17.43.37 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.43.38 : Server : Recieved
+05-14-2021 17.43.38 : Server : Recieved
+05-14-2021 17.43.39 : Server : quit
+05-14-2021 17.44.35 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.44.35 : Server : Mohammad Alom
+05-14-2021 17.44.35 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.44.36 : Server : 1234235423234 / 03/21 / 456
+05-14-2021 17.44.36 : Server : 10
+05-14-2021 17.44.37 : Server : quit
+05-14-2021 17.44.39 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.44.40 : Server : Recieved
+05-14-2021 17.44.40 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.44.40 : Server : Recieved
+05-14-2021 17.44.41 : Server : Recieved
+05-14-2021 17.44.41 : Server : quit
+05-14-2021 17.44.59 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.44.59 : Server : Mohammad Alom
+05-14-2021 17.44.59 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.45.00 : Server : Recieved
+05-14-2021 17.45.00 : Server : 10
+05-14-2021 17.45.01 : Server : quit
+05-14-2021 17.45.05 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.45.06 : Server : Recieved
+05-14-2021 17.45.06 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.45.06 : Server : Recieved
+05-14-2021 17.45.07 : Server : Recieved
+05-14-2021 17.45.07 : Server : quit
+05-14-2021 17.46.26 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.46.26 : Server : Mohammad Alom
+05-14-2021 17.46.26 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.46.27 : Server : 121232132354 / 03/21 / 123
+05-14-2021 17.46.27 : Server : 10
+05-14-2021 17.46.28 : Server : quit
+05-14-2021 17.47.17 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.47.18 : Server : Mohammad Alom
+05-14-2021 17.47.18 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.47.18 : Server : 
+05-14-2021 17.47.19 : Server : 10
+05-14-2021 17.47.19 : Server : quit
+05-14-2021 17.47.55 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.47.55 : Server : Recieved
+05-14-2021 17.47.55 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.47.56 : Server : Recieved
+05-14-2021 17.47.56 : Server : Recieved
+05-14-2021 17.47.57 : Server : quit
+05-14-2021 17.49.47 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 17.49.48 : Server : Mohammad Alom
+05-14-2021 17.49.48 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 17.49.48 : Server : 12312123 / 2/21 / 200
+05-14-2021 17.49.49 : Server : 10
+05-14-2021 17.49.49 : Server : quit
+05-14-2021 21.01.29 : Server : Transaction>kiosk#001,0,0.00
+05-14-2021 21.01.29 : Server : Name: Mohammad Alom
+05-14-2021 21.01.29 : CLIENT : Transaction>kiosk#001,0,0.00
+05-14-2021 21.01.30 : Server : Card Information: 42542553 / 11/21 /  345
+05-14-2021 21.01.30 : Server : 10 Days
+05-14-2021 21.01.31 : Server : quit
